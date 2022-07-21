@@ -1,5 +1,5 @@
 # zing-issues
-
+This is a simple project set up to demonstrate how Zingchart's bubble-pack is not refreshing the chart with updated data.
 ## Project setup
 ```
 npm install
