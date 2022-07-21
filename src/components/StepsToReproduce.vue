@@ -18,6 +18,8 @@
         </li>
       </ol>
     </li>
+    <strong>Most interesting part is, if you right click on the chart and view source,
+      you'll see that the chart has the latest data. It's just not rendering it.</strong>
   </div>
 </div>
 </template>
